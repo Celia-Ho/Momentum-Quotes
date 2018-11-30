@@ -1,3 +1,5 @@
+<!-- Momentum Quotes -->
+
 <?php
 
 // delete a value from an array using array_diff
